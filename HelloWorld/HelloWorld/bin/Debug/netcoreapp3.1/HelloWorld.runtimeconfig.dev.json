@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zeref\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zeref\\.nuget\\packages"
+    ]
+  }
+}
